@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+
+body {
+    font-family: 'Comfortaa', sans-serif;
+}
+
+.joeys {
+    text-align: center;
+    font-size: 140px;
+    color: rgb(3, 149, 233);
+}
+
+.recnames {
+    font-size: 55px;
+    text-decoration: underline;
+}
+
+ul {
+    text-align: center;
+    display: inline;
+}
+
+img {
+    float: right;
+}
+
+.links {
+    font-size: 70px;
+}
+
+a,
+a:visited {
+    text-decoration: none;
+    color: rgb(228, 63, 90);
+}
+
+a:hover {
+    border-style: solid;
+    border-color: rgb(228, 63, 90);
+    border-radius: 15px;
+}
